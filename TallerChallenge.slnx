@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="TallerChallenge.Api/TallerChallenge.Api.csproj" />
+  <Project Path="TallerChallenge.Application/TallerChallenge.Application.csproj" />
+  <Project Path="TallerChallenge.Domain/TallerChallenge.Domain.csproj" />
+  <Project Path="TallerChallenge.Repository/TallerChallenge.Repository.csproj" />
+  <Project Path="TallerChallenge.Tests/TallerChallenge.Tests.csproj" Id="8309748b-ad12-4569-bb32-60973c27da64" />
+  <Project Path="TallerChallenge.WebApp/TallerChallenge.WebApp.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
